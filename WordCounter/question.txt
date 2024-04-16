@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Question_list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <questions_History>
+    <Question>
+      <Text_i>Lord in Ancient Egypt ?</Text_i>
+      <Name_Theory>History</Name_Theory>
+      <Answers>
+        <Answer>
+          <Text>King</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>President</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>Pharaoh</Text>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>Lord</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+    </Question>
+    <Question>
+      <Text_i>The first pharaoh of ancient Egypt, according to the extant legend ?</Text_i>
+      <Name_Theory>History</Name_Theory>
+      <Answers>
+        <Answer>
+          <Text>Tutankhamun</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>Menes</Text>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>Ramses</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>Cheops</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+    </Question>
+    <Question>
+      <Text_i>One of the Wonders of Light made of stones, built as a tomb of ancient pharaohs ?</Text_i>
+      <Name_Theory>History</Name_Theory>
+      <Answers>
+        <Answer>
+          <Text>pyramid</Text>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>tomb</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>stone castles</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>castles</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+    </Question>
+    <Question>
+      <Text_i>The oldest monolithic sculpture, preserved to our time ?</Text_i>
+      <Name_Theory>History</Name_Theory>
+      <Answers>
+        <Answer>
+          <Text>pyramid of Cheops</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>Colossus of Rhodes</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>Great Sphinx</Text>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>Lime pharaoh</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+    </Question>
+    <Question>
+      <Text_i>The ancient Egyptians used to write ?</Text_i>
+      <Name_Theory>History</Name_Theory>
+      <Answers>
+        <Answer>
+          <Text>birch bark</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>paper</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>palm bark</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>papyrus</Text>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+    </Question>
+    <Question>
+      <Text_i>2+2=x</Text_i>
+      <Name_Theory>Math</Name_Theory>
+      <Answers>
+        <Answer>
+          <Text>x=4</Text>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>x=7</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>x=3</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>x=2</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+    </Question>
+    <Question>
+      <Text_i>3 + 4 =x </Text_i>
+      <Name_Theory>Math</Name_Theory>
+      <Answers>
+        <Answer>
+          <Text>5</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>3</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>7</Text>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>9</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+    </Question>
+    <Question>
+      <Text_i>The scientific study of living organisms is:</Text_i>
+      <Name_Theory>Biology</Name_Theory>
+      <Answers>
+        <Answer>
+          <Text>bacteriology</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>biology</Text>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>pathology</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>hematology</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+    </Question>
+    <Question>
+      <Text_i>What is blue ?
+</Text_i>
+      <Name_Theory>Art</Name_Theory>
+      <Answers>
+        <Answer>
+          <Text>Pink+Yellow</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>Yellow+Green</Text>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>Red+Green</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>White+Black</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+    </Question>
+    <Question>
+      <Text_i>123+4-5+67-89 = x</Text_i>
+      <Name_Theory>Math</Name_Theory>
+      <Answers>
+        <Answer>
+          <Text>x = 20</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>x = 56</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>x = 100</Text>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>x = 98</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+    </Question>
+    <Question>
+      <Text_i>If 1=3, 2=3, 3=5, 4=4, and 5=4, what is 6=? </Text_i>
+      <Name_Theory>Math</Name_Theory>
+      <Answers>
+        <Answer>
+          <Text>? = 4</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>? = 3</Text>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>? = 6</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>? = 1</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+    </Question>
+    <Question>
+      <Text_i>What is next in the following number series: 256, 289, 324, 361, ?</Text_i>
+      <Name_Theory>Math</Name_Theory>
+      <Answers>
+        <Answer>
+          <Text>543</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>395</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>566</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>400</Text>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+    </Question>
+    <Question>
+      <Text_i>What does 6 raise to the power of 0 equal ? </Text_i>
+      <Name_Theory>Math</Name_Theory>
+      <Answers>
+        <Answer>
+          <Text>36</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>2</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>1</Text>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>0</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+    </Question>
+    <Question>
+      <Text_i>A car is traveling at the rate of 75 kilometers per hour. How many meters is the car traveling in one minute?</Text_i>
+      <Name_Theory>Math</Name_Theory>
+      <Answers>
+        <Answer>
+          <Text>1200</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>1250</Text>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>1900</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>2340</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+    </Question>
+    <Question>
+      <Text_i> 53 divided by four is equal to how much?</Text_i>
+      <Name_Theory>Math</Name_Theory>
+      <Answers>
+        <Answer>
+          <Text>13</Text>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>14</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>12.5</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>12</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+    </Question>
+    <Question>
+      <Text_i>How many seconds are there in one day?</Text_i>
+      <Name_Theory>Math</Name_Theory>
+      <Answers>
+        <Answer>
+          <Text>34555</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>80000</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>86400</Text>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>56777</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+    </Question>
+    <Question>
+      <Text_i>9*x is equal to 108. What is x?</Text_i>
+      <Name_Theory>Math</Name_Theory>
+      <Answers>
+        <Answer>
+          <Text>x = 15</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>x = 11.3</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>x = 13</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>x = 12</Text>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+    </Question>
+    <Question>
+      <Text_i>Plants receive their nutrients mainly from </Text_i>
+      <Name_Theory>Biology</Name_Theory>
+      <Answers>
+        <Answer>
+          <Text>chlorophyll</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>atmosphere</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>light</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>soil</Text>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+    </Question>
+    <Question>
+      <Text_i>Photosynthesis generally takes place in which parts of the plant?</Text_i>
+      <Name_Theory>Biology</Name_Theory>
+      <Answers>
+        <Answer>
+          <Text>Leaf and other chloroplast bearing parts</Text>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>Stem and leaf</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>Roots and chloroplast bearing parts</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>Bark and leaf</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+    </Question>
+    <Question>
+      <Text_i>Most fish do not sink in water because of the presence of
+1.swim bladder
+2.air bladder
+3.air sacs
+4.air in spongy bones</Text_i>
+      <Name_Theory>Biology</Name_Theory>
+      <Answers>
+        <Answer>
+          <Text>I and II are correct</Text>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>II and III are correct</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>III and IV are correct</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>I, II, III and IV are correct</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+    </Question>
+    <Question>
+      <Text_i>Plants absorb dissolved nitrates from soil and convert them into</Text_i>
+      <Name_Theory>Biology</Name_Theory>
+      <Answers>
+        <Answer>
+          <Text>urea</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>free nitrogen</Text>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>ammonia</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>proteins</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+    </Question>
+    <Question>
+      <Text_i>If 3sm is oposite an angle of 30 degree. What is area of triangle?</Text_i>
+      <Name_Theory>Math</Name_Theory>
+      <Answers>
+        <Answer>
+          <Text>4.5</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>4.5√3</Text>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>3</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>5√3</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+    </Question>
+    <Question>
+      <Text_i>input x
+x + 2 = 5
+x = ?</Text_i>
+      <Name_Theory>IT</Name_Theory>
+      <Answers>
+        <Answer>
+          <Text>3</Text>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>5</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>6</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>22</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+    </Question>
+    <Question>
+      <Text_i>What is python ?</Text_i>
+      <Name_Theory>IT</Name_Theory>
+      <Answers>
+        <Answer>
+          <Text>language</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>programing language</Text>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>it is snake type</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>there is no right answer</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+    </Question>
+    <Question>
+      <Text_i>Ti kto ?</Text_i>
+      <Name_Theory>ugurologiya</Name_Theory>
+      <Answers>
+        <Answer>
+          <Text>Ugur</Text>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>Murad</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>Miska</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>Zebra</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+    </Question>
+  </questions_History>
+</Question_list>
